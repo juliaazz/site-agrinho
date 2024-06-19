@@ -7,4 +7,5 @@
     height: 40px;
     display: inline-block;
     background-image: url("../img/menu.png");
+    background-repeat: no-repeat;
 }
