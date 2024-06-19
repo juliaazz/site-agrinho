@@ -8,4 +8,5 @@
     display: inline-block;
     background-image: url("../img/menu.png");
     background-repeat: no-repeat;
+    background-position: center;
 }
