@@ -30,3 +30,15 @@ body{
 width: 80%;
 border-radius: 50%;
 }
+
+.conteudo2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo2 img{
+width: 80%;
+
+}
