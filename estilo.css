@@ -43,3 +43,11 @@ border-radius: 50%;
 width: 80%;
 
 }
+
+.conteudo2__texto{
+    width: 70%;
+    background-color: #083610;
+    color: white;
+    padding: 20px;
+
+}
