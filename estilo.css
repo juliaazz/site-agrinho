@@ -31,6 +31,32 @@ width: 80%;
 border-radius: 50%;
 }
 
+.conteudo2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+.conteudo2 h2 {
+font-size: 20px;
+
+}
+
+.conteudo2 img{
+width: 80%;
+
+}
+
+.conteudo2_texto{
+    width: 70%;
+    background-color: #083610;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+}
 
 .conteudo3{
     display: flex;
