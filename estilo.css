@@ -84,3 +84,30 @@ width: 80%;
     padding: 20px;
     margin-top: 30px;
 }
+
+.conteudo4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+.conteudo4 h2 {
+font-size: 20px;
+
+}
+
+.conteudo4 img{
+width: 80%;
+
+}
+
+.conteudo4_texto{
+    width: 70%;
+    background-color: #083610;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+}
