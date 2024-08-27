@@ -22,6 +22,7 @@ body{
 }
 
 .conteudo1 h2{
+    margin: 20px;
     color: #083610;
     font-size: 60px;
 }
