@@ -121,4 +121,15 @@ width: 80%;
         margin: 20px;
         
     }
+
+    .conteudo3{
+flex-direction: row;
+margin: 20px;
+
+    }
+
+    .conteudo4{
+     flex-direction: row;
+      margin: 20px;
+    }
 }
