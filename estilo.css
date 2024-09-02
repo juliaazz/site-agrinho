@@ -121,6 +121,10 @@ width: 80%;
         margin: 20px;
         
     }
+    .conteudo2_texto{
+        margin: 20px;
+        font-size: 40px;
+    }
 
     .conteudo3{
 flex-direction: row;
