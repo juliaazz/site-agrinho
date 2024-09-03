@@ -14,7 +14,8 @@ body{
 
 .conteudo1_perfil{
     display: flex;
-    font-size: 50px;
+    font-size: 20px;
+    width: 80%;
 
 }
 
@@ -112,7 +113,7 @@ width: 80%;
 }
 
 .banner img{
-    width: 50%;
+    width: 80%;
 
 }
 
