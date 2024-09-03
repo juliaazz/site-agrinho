@@ -134,9 +134,23 @@ flex-direction: row;
 margin: 20px;
 
     }
+    .conteudo3_texto{
+        margin: 20px;
+        font-size: 56px;
+    }
+    .conteudo3 h2 {
+        font-size: 79px;
+    }
 
     .conteudo4{
      flex-direction: row;
       margin: 20px;
+    }
+    .conteudo4_texto{
+        margin: 20px;
+        font-size: 56px;
+    }
+    .conteudo4 h2 {
+        font-size: 79px;
     }
 }
