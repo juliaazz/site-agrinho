@@ -115,6 +115,11 @@ width: 80%;
     margin-top: 30px;
 }
 
+.banner img{
+    width: 50%;
+
+}
+
 @media (min-width:1024px){
     .conteudo2{
         flex-direction: row;
@@ -154,8 +159,5 @@ margin: 20px;
         font-size: 80px;
     }
 
-    .banner img{
-        width: 50%;
-
-    }
+   
 }
